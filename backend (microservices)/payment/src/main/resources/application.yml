@@ -68,7 +68,7 @@ endpoints:
 razorpay:
   api:
     key: "YOUR_KEY_SECRET"
-    secret: "YOUR_KEY_SECRET"
+    secret: "YOUR_KEY "
 
 stripe:
   api:
