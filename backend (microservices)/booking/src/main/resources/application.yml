@@ -1,5 +1,5 @@
 server:
-  port: 5003 #this is port number
+  port: 5003 #this is port numbers
 
 spring:
   application:
